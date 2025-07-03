@@ -23,5 +23,5 @@ This is a simple and fun **Tic Tac Toe** game with a graphical user interface (G
 1. Clone the repository:
    ```bash
    git clone https://github.com/TahaTavana/Tic-Tac-Toe.git
-   cd tic-tac-toe
+   cd tic-tac-toe/
    python app.py
